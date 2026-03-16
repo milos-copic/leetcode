@@ -1,1 +1,1 @@
-# solutions are done in java
+# Solutions are done in Java
